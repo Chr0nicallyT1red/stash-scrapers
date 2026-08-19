@@ -12,4 +12,4 @@ Source index URL: `https://chr0nicallyt1red.github.io/stash-scrapers/main/index.
 
 | Scraper | Description |
 |--------|-------------|
-| [**Rule34Video Chr0nicallyT1red**](#stash-downloader) | Rule34Video scraper from the [community repo](https://github.com/stashapp/CommunityScrapers), modified to scrape artists as performers and the uploader as the studio |
+| [**Rule34Video Chr0nicallyT1red**] | Rule34Video scraper from the [community repo](https://github.com/stashapp/CommunityScrapers), modified to scrape artists as performers and the uploader as the studio |
